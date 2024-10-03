@@ -1,4 +1,4 @@
-#La entrada consiste de m´ultiples casos de prueba. 
+#La entrada consiste de multiples casos de prueba. 
 #Para N mostrar en pantalla de la siguiente manera:
 #N=3:
 # 1 0 1

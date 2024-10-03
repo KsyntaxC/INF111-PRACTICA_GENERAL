@@ -1,5 +1,5 @@
 #Ingresado un número N(1 ≤ N ≤ 100), iniciar con la prueba de números y dar pistas
-#acerca de que tan cerca se esta de N, finalizar el programa cuando se haya llegado a N.
+#Acerca de que tan cerca se esta de N, finalizar el programa cuando se haya llegado a N.
 N=int(input("Intro N: "))
 x=int
 while x != N:
